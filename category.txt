@@ -1,0 +1,6 @@
+object, mapping.
+
+struct, enum, trait
+proc-macro.
+
+type

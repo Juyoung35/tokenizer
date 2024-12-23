@@ -1,0 +1,6 @@
+basic concepts
+    turn - turn first vs turn last
+    energy - max energy
+    cost
+    power
+    region
